@@ -1,0 +1,116 @@
+{
+  "signup": [
+    {
+      "id": "b389",
+      "fname": "sdfgh",
+      "lname": "ghjbv",
+      "email": "dfghn",
+      "phone": "1234567876",
+      "password": "123456"
+    },
+    {
+      "id": "56b8",
+      "fname": "anand ",
+      "lname": "verma",
+      "email": "anand@gmail.com",
+      "phone": "6387736092",
+      "password": "12345"
+    },
+    {
+      "id": "06cf",
+      "fname": "ram ",
+      "lname": "singh",
+      "email": "ram@gmail.com",
+      "phone": "8567412365",
+      "password": "123456"
+    },
+    {
+      "id": "20c1",
+      "fname": "ram",
+      "lname": "singh",
+      "email": "ram@gmail.com",
+      "phone": "8567412358",
+      "password": "123456"
+    },
+    {
+      "id": "0684",
+      "fname": "Anand",
+      "lname": "verma",
+      "email": "test@gmail.com",
+      "phone": "6387736092",
+      "password": "12345"
+    },
+    {
+      "id": "e16f",
+      "fname": null,
+      "lname": null,
+      "email": null,
+      "phone": null,
+      "password": null
+    },
+    {
+      "id": "3304",
+      "fname": "Anand",
+      "lname": "verma",
+      "email": "abc@gmail.com",
+      "phone": "9876543212",
+      "password": "abcd"
+    },
+    {
+      "id": "d0e0",
+      "fname": "asgg",
+      "lname": "sdfg",
+      "email": "tset@gmail.com",
+      "phone": "1234567889",
+      "password": "asdfgg"
+    },
+    {
+      "id": "a340",
+      "fname": "aman",
+      "lname": "verma",
+      "email": "aman@gmail.com",
+      "phone": "1234567890",
+      "password": "123456789"
+    },
+    {
+      "id": "f9d1",
+      "fname": "aman",
+      "lname": "verma",
+      "email": "aman@gmail.com",
+      "phone": "1234567890",
+      "password": "123456789"
+    },
+    {
+      "id": "41dd",
+      "fname": "naman",
+      "lname": "singh",
+      "email": "aman@gmail.com",
+      "phone": "1234567899",
+      "password": "0987654321"
+    },
+    {
+      "id": "218a",
+      "fname": "aman ",
+      "lname": "singh",
+      "email": "aman@gmail.com",
+      "phone": "6387736982",
+      "password": "12345"
+    },
+    {
+      "id": "262d",
+      "fname": "anand ",
+      "lname": "singh",
+      "email": "aman@gmail.com",
+      "phone": "9876322123",
+      "password": "anand"
+    },
+    {
+      "id": "3372",
+      "fname": "akriti",
+      "lname": "singh",
+      "email": "aman@gmail.com",
+      "phone": "123456765678",
+      "password": "anand"
+    }
+  ]
+}
